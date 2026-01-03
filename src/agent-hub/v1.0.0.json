@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "runtime": "python",
+  "install": {
+    "pip": "pip install mcp httpx"
+  },
+  "config": {
+    "command": "python",
+    "args": ["-m", "agent_hub_mcp"]
+  },
+  "capabilities": [
+    "sentiment_analysis",
+    "translation",
+    "web_research",
+    "web_scraping",
+    "data_extraction",
+    "content_generation",
+    "code_review"
+  ],
+  "pricing": {
+    "model": "pay-per-use",
+    "currency": "USDC",
+    "network": "Base Mainnet",
+    "range": "$0.05 - $2.00 per service"
+  }
+}

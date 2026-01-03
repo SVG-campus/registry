@@ -1,0 +1,18 @@
+{
+  "name": "agent-hub",
+  "displayName": "Agent Hub",
+  "description": "Crypto-native AI services with USDC payments on Base Mainnet",
+  "longDescription": "Access 18 premium AI services including sentiment analysis, translation, research, web scraping, data extraction, content generation, code review, and more. All services accept USDC cryptocurrency payments on Base Mainnet with no subscriptions required.",
+  "repository": "https://github.com/SVG-campus/agent-hub",
+  "homepage": "https://web-production-4833.up.railway.app",
+  "categories": ["ai", "web3", "data", "content"],
+  "tags": ["crypto", "usdc", "base", "payment", "sentiment", "translation", "research", "scraping"],
+  "author": {
+    "name": "SVG-campus",
+    "url": "https://github.com/SVG-campus"
+  },
+  "license": "MIT",
+  "versions": {
+    "latest": "1.0.0"
+  }
+}
